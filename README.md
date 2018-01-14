@@ -1,6 +1,8 @@
-# movieapivue2
+# Beer-Vue.js-2-API-Axios-Bootstrap-4
 
-> movie api vue js 2
+
+>Beer-Vue.js-2-API-Axios-Bootstrap-4
+
 
 ## Build Setup
 
